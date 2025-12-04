@@ -5,7 +5,8 @@ href="www.linkedin.com/in/sheree4hire">AML, Compliance, and Data Analyst</a>
 <h2>📊Data Analytics Projects:</h2>
 
 - <b>💾SQL Project</b>
-  - [Demonstrating SQL Techniques](https://github.com/sheree4hire)
+  - [Demonstrating SQL Techniques]
+  - [SQL Project 1](https://github.com/sheree4hire/SQL-Project-1)
 
 <h2>📚Certifications:</h2>
 
