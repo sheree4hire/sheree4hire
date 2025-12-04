@@ -1,5 +1,5 @@
 <h1>Hi, I'm Sheree Logan! <br/><a 
-href="www.linkedin.com/in/sheree4hire">AML, Compliance, and Data Analyst</a>
+href="www.linkedin.com/in/sheree4hire">AML, Compliance, and Data/Business/Risk Analysis</a>
 </h1>
 
 <h2>📊Data Analytics Projects:</h2>
