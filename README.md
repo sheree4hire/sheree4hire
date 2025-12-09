@@ -4,9 +4,9 @@ href="www.linkedin.com/in/sheree4hire">AML, Compliance, and Data/Business/Risk A
 
 <h2>📊Data Analytics Projects:</h2>
 
-- <b>💾SQL Projects</b>
+- <b>💾SQL </b>
   - [Demonstrating SQL Techniques]
-  - [@ Excelerate](https://github.com/sheree4hire/SQL-Project-1)
+  - [Projects](https://github.com/sheree4hire/SQL-Project-1)
 
 <h2>📚Certifications:</h2>
 
